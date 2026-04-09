@@ -1,0 +1,132 @@
+model_id,tool,source_path,compile_status,object_path,binary_path,object_size_bytes,binary_size_bytes,object_text_bytes,object_data_bytes,object_bss_bytes,object_total_bytes,object_size_raw,binary_text_bytes,binary_data_bytes,binary_bss_bytes,binary_total_bytes,binary_size_raw,compile_stderr,link_stderr
+logreg_liblinear_c0.1,m2cgen,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+logreg_liblinear_c0.1,micromlgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/logreg_liblinear_c0_1__micromlgen.h,skipped_non_compilable_suffix,,,,,,,,,,,,,,,,
+logreg_liblinear_c0.1,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+logreg_liblinear_c1,m2cgen,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+logreg_liblinear_c1,micromlgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/logreg_liblinear_c1__micromlgen.h,skipped_non_compilable_suffix,,,,,,,,,,,,,,,,
+logreg_liblinear_c1,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+logreg_liblinear_c10,m2cgen,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+logreg_liblinear_c10,micromlgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/logreg_liblinear_c10__micromlgen.h,skipped_non_compilable_suffix,,,,,,,,,,,,,,,,
+logreg_liblinear_c10,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+logreg_lbfgs_c0.1,m2cgen,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+logreg_lbfgs_c0.1,micromlgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/logreg_lbfgs_c0_1__micromlgen.h,skipped_non_compilable_suffix,,,,,,,,,,,,,,,,
+logreg_lbfgs_c0.1,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+logreg_lbfgs_c1,m2cgen,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+logreg_lbfgs_c1,micromlgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/logreg_lbfgs_c1__micromlgen.h,skipped_non_compilable_suffix,,,,,,,,,,,,,,,,
+logreg_lbfgs_c1,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+logreg_lbfgs_c10,m2cgen,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+logreg_lbfgs_c10,micromlgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/logreg_lbfgs_c10__micromlgen.h,skipped_non_compilable_suffix,,,,,,,,,,,,,,,,
+logreg_lbfgs_c10,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+linearsvc_c0.1,m2cgen,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+linearsvc_c0.1,micromlgen,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+linearsvc_c0.1,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+linearsvc_c1,m2cgen,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+linearsvc_c1,micromlgen,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+linearsvc_c1,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+linearsvc_c10,m2cgen,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+linearsvc_c10,micromlgen,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+linearsvc_c10,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+dtree_d3_leaf1,m2cgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/dtree_d3_leaf1__m2cgen.c,compile_only_success,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/compiled/dtree_d3_leaf1__m2cgen.o,,1224.0,,276.0,0.0,0.0,308.0,"__TEXT	__DATA	__OBJC	others	dec	hex
+276	0	0	32	308	134",,,,,,,"Undefined symbols for architecture arm64:
+  ""_main"", referenced from:
+      <initial-undefines>
+ld: symbol(s) not found for architecture arm64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)"
+dtree_d3_leaf1,micromlgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/dtree_d3_leaf1__micromlgen.h,skipped_non_compilable_suffix,,,,,,,,,,,,,,,,
+dtree_d3_leaf1,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+dtree_d3_leaf5,m2cgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/dtree_d3_leaf5__m2cgen.c,compile_only_success,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/compiled/dtree_d3_leaf5__m2cgen.o,,1416.0,,296.0,0.0,0.0,328.0,"__TEXT	__DATA	__OBJC	others	dec	hex
+296	0	0	32	328	148",,,,,,,"Undefined symbols for architecture arm64:
+  ""_main"", referenced from:
+      <initial-undefines>
+ld: symbol(s) not found for architecture arm64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)"
+dtree_d3_leaf5,micromlgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/dtree_d3_leaf5__micromlgen.h,skipped_non_compilable_suffix,,,,,,,,,,,,,,,,
+dtree_d3_leaf5,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+dtree_d5_leaf1,m2cgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/dtree_d5_leaf1__m2cgen.c,compile_only_success,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/compiled/dtree_d5_leaf1__m2cgen.o,,1928.0,,604.0,0.0,0.0,636.0,"__TEXT	__DATA	__OBJC	others	dec	hex
+604	0	0	32	636	27c",,,,,,,"Undefined symbols for architecture arm64:
+  ""_main"", referenced from:
+      <initial-undefines>
+ld: symbol(s) not found for architecture arm64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)"
+dtree_d5_leaf1,micromlgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/dtree_d5_leaf1__micromlgen.h,skipped_non_compilable_suffix,,,,,,,,,,,,,,,,
+dtree_d5_leaf1,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+dtree_d5_leaf5,m2cgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/dtree_d5_leaf5__m2cgen.c,compile_only_success,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/compiled/dtree_d5_leaf5__m2cgen.o,,2824.0,,824.0,0.0,0.0,856.0,"__TEXT	__DATA	__OBJC	others	dec	hex
+824	0	0	32	856	358",,,,,,,"Undefined symbols for architecture arm64:
+  ""_main"", referenced from:
+      <initial-undefines>
+ld: symbol(s) not found for architecture arm64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)"
+dtree_d5_leaf5,micromlgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/dtree_d5_leaf5__micromlgen.h,skipped_non_compilable_suffix,,,,,,,,,,,,,,,,
+dtree_d5_leaf5,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+dtree_d8_leaf1,m2cgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/dtree_d8_leaf1__m2cgen.c,compile_only_success,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/compiled/dtree_d8_leaf1__m2cgen.o,,2720.0,,1088.0,0.0,0.0,1120.0,"__TEXT	__DATA	__OBJC	others	dec	hex
+1088	0	0	32	1120	460",,,,,,,"Undefined symbols for architecture arm64:
+  ""_main"", referenced from:
+      <initial-undefines>
+ld: symbol(s) not found for architecture arm64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)"
+dtree_d8_leaf1,micromlgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/dtree_d8_leaf1__micromlgen.h,skipped_non_compilable_suffix,,,,,,,,,,,,,,,,
+dtree_d8_leaf1,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+dtree_d8_leaf5,m2cgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/dtree_d8_leaf5__m2cgen.c,compile_only_success,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/compiled/dtree_d8_leaf5__m2cgen.o,,4864.0,,1596.0,0.0,0.0,1628.0,"__TEXT	__DATA	__OBJC	others	dec	hex
+1596	0	0	32	1628	65c",,,,,,,"Undefined symbols for architecture arm64:
+  ""_main"", referenced from:
+      <initial-undefines>
+ld: symbol(s) not found for architecture arm64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)"
+dtree_d8_leaf5,micromlgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/dtree_d8_leaf5__micromlgen.h,skipped_non_compilable_suffix,,,,,,,,,,,,,,,,
+dtree_d8_leaf5,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+rf_n10_d5,m2cgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/rf_n10_d5__m2cgen.c,compile_only_success,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/compiled/rf_n10_d5__m2cgen.o,,4912.0,,2380.0,0.0,0.0,2476.0,"__TEXT	__DATA	__OBJC	others	dec	hex
+2380	0	0	96	2476	9ac",,,,,,,"Undefined symbols for architecture arm64:
+  ""_main"", referenced from:
+      <initial-undefines>
+ld: symbol(s) not found for architecture arm64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)"
+rf_n10_d5,micromlgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/rf_n10_d5__micromlgen.h,skipped_non_compilable_suffix,,,,,,,,,,,,,,,,
+rf_n10_d5,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+rf_n10_d10,m2cgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/rf_n10_d10__m2cgen.c,compile_only_success,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/compiled/rf_n10_d10__m2cgen.o,,10968.0,,6596.0,0.0,0.0,6692.0,"__TEXT	__DATA	__OBJC	others	dec	hex
+6596	0	0	96	6692	1a24",,,,,,,"Undefined symbols for architecture arm64:
+  ""_main"", referenced from:
+      <initial-undefines>
+ld: symbol(s) not found for architecture arm64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)"
+rf_n10_d10,micromlgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/rf_n10_d10__micromlgen.h,skipped_non_compilable_suffix,,,,,,,,,,,,,,,,
+rf_n10_d10,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+rf_n30_d5,m2cgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/rf_n30_d5__m2cgen.c,compile_only_success,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/compiled/rf_n30_d5__m2cgen.o,,14152.0,,7572.0,0.0,0.0,7668.0,"__TEXT	__DATA	__OBJC	others	dec	hex
+7572	0	0	96	7668	1df4",,,,,,,"Undefined symbols for architecture arm64:
+  ""_main"", referenced from:
+      <initial-undefines>
+ld: symbol(s) not found for architecture arm64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)"
+rf_n30_d5,micromlgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/rf_n30_d5__micromlgen.h,skipped_non_compilable_suffix,,,,,,,,,,,,,,,,
+rf_n30_d5,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+rf_n30_d10,m2cgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/rf_n30_d10__m2cgen.c,compile_only_success,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/compiled/rf_n30_d10__m2cgen.o,,30680.0,,19440.0,0.0,0.0,19536.0,"__TEXT	__DATA	__OBJC	others	dec	hex
+19440	0	0	96	19536	4c50",,,,,,,"Undefined symbols for architecture arm64:
+  ""_main"", referenced from:
+      <initial-undefines>
+ld: symbol(s) not found for architecture arm64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)"
+rf_n30_d10,micromlgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/rf_n30_d10__micromlgen.h,skipped_non_compilable_suffix,,,,,,,,,,,,,,,,
+rf_n30_d10,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+rf_n100_d5,m2cgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/rf_n100_d5__m2cgen.c,compile_only_success,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/compiled/rf_n100_d5__m2cgen.o,,47328.0,,26832.0,0.0,0.0,26928.0,"__TEXT	__DATA	__OBJC	others	dec	hex
+26832	0	0	96	26928	6930",,,,,,,"Undefined symbols for architecture arm64:
+  ""_main"", referenced from:
+      <initial-undefines>
+ld: symbol(s) not found for architecture arm64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)"
+rf_n100_d5,micromlgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/rf_n100_d5__micromlgen.h,skipped_non_compilable_suffix,,,,,,,,,,,,,,,,
+rf_n100_d5,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+rf_n100_d10,m2cgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/rf_n100_d10__m2cgen.c,compile_only_success,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/compiled/rf_n100_d10__m2cgen.o,,101936.0,,66956.0,0.0,0.0,67052.0,"__TEXT	__DATA	__OBJC	others	dec	hex
+66956	0	0	96	67052	105ec",,,,,,,"Undefined symbols for architecture arm64:
+  ""_main"", referenced from:
+      <initial-undefines>
+ld: symbol(s) not found for architecture arm64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)"
+rf_n100_d10,micromlgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/rf_n100_d10__micromlgen.h,skipped_non_compilable_suffix,,,,,,,,,,,,,,,,
+rf_n100_d10,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+extratrees_n30_d10,m2cgen,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/c_sources/extratrees_n30_d10__m2cgen.c,compile_only_success,/Users/joshhuang/Documents/GitHub/67364-project-2-nba/transpile_results/run_20260409_145524/compiled/extratrees_n30_d10__m2cgen.o,,117616.0,,42916.0,0.0,0.0,43012.0,"__TEXT	__DATA	__OBJC	others	dec	hex
+42916	0	0	96	43012	a804",,,,,,,"Undefined symbols for architecture arm64:
+  ""_main"", referenced from:
+      <initial-undefines>
+ld: symbol(s) not found for architecture arm64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)"
+extratrees_n30_d10,micromlgen,,not_compiled_export_failed,,,,,,,,,,,,,,,,
+extratrees_n30_d10,sklearn_porter,,not_compiled_export_failed,,,,,,,,,,,,,,,,
